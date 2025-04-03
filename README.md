@@ -4,7 +4,6 @@
 1. [Description](#description)
 2. [Installation](#installation)
    - [Prérequis](#prérequis)
-   - [Étapes d'installation](#étapes-dinstallation)
 3. [Fonctionnalités](#fonctionnalités)
    - [Contrôles](#contrôles)
    - [Éléments du jeu](#éléments-du-jeu)
